@@ -8,5 +8,5 @@ I have Created code for Options Trading based on Various Trading Technical Indic
 4. Turtle Trading based Strategy
 5. Monte Carlo Option Pricing in C++
 
-**LSTMs** have gave me promosing results and now I am exploring advance LSTM like MD-LSTM and MiD-LSTM for better prediction and more feature inclusion.
+**LSTMs** have given me promosing results and now I am exploring advance LSTM like MD-LSTM and MiD-LSTM for better prediction and more feature inclusion.
  Working on adding few others look here for more updates ...
